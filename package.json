@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npx mix",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.24.1",
+        "axios": "^1.6.4",
+        "laravel-mix": "^6.0.49",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^2.2.3",
+        "formik": "^2.4.5",
+        "yup": "^1.4.0"
+    }
+}
